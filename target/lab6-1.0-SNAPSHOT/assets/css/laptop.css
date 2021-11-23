@@ -1,0 +1,239 @@
+a{
+    text-decoration: none;
+    color: #000;
+}
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: #fff;
+  
+}
+.decrip-header-main{
+   padding-top: 30px;
+    width: 1200px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+   
+}
+.logo{
+    width: 150px;
+    height: 40px;
+
+}
+.logo img{
+    
+}
+.decrip-header{
+    display: flex;
+}
+.decrip-header-left{
+
+}
+.decrip-header-left a{
+    font-weight: 600;
+    margin: 0 15px;
+}
+.decrip-header-right{
+    color: #fff;
+    text-align: center;
+    margin-top: -15px;
+    background-color: #F13233;
+    width: 225px;
+    display: flex;
+    font-size: 13px;
+    height: 45px;
+}
+.decrip-header-right> div{
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 50%;
+    display: flex;
+}
+.decrip-header-right> div i{
+   font-size: 28px;
+}
+.decrip-header-right>div>div{
+    display: block;
+}
+.decrip-header-right> div> div a{
+  width: 125px;
+  color: #fff;
+}
+
+.decrip-header-right> div> div span{
+    display: block;
+}
+
+.banner{
+    width: 100%;
+    height: 503px;
+   
+}
+.img-banner{
+    width: 100%;
+    height: 503px;
+   background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('https://w.ladicdn.com/s2150x850/5bf3dc7edc60303c34e4991f/noel-20211117073650.png');
+}
+.container{
+    width: 100%;
+    min-height: 1000px;
+    background-image: url('https://w.ladicdn.com/s1440x1047/5bf3dc7edc60303c34e4991f/169-converted-20211117061410.png');
+    background-size: cover;
+    padding-bottom: 100px;
+}
+.product{
+    width: 1000px;
+    min-height: 1000px;
+    margin: auto;
+    background-color: #FE795A;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('https://w.ladicdn.com/s1400x1250/5bf3dc7edc60303c34e4991f/laptopnoelhi-20211117053106.png');
+}
+.decrip-product{
+    padding-top: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 13px;
+    margin-right: 10px;
+    justify-content: space-between;
+
+}
+.item-product{
+    display: flex;
+    width: 49%;
+    margin-bottom: 20px;
+    background-color: #fff;
+   border-radius: 10px;
+}
+.item-product img{
+    border-radius: 10px;
+}
+.text-product{
+    padding-top: 45px;
+}
+.text-product h3{
+    font-size: 25px;
+}
+.text-product h5{
+    font-size: 20px;
+}
+.config{
+
+}
+.config>div{
+    text-transform: uppercase;
+    display: flex;
+    width: 190px;
+    justify-content: space-between;
+}
+.config>div>span{
+    color: #B23434;
+}
+.price{
+    margin-top: 10px;
+}
+.old-price{
+    text-decoration: line-through;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.new-price{
+    color: #3879E1;
+    font-size: 25px;
+}
+.footer{
+    width: 100%;
+    background-color: #F6F6F6;
+}
+.footer-page{
+    width: 1000px;
+    margin: auto;
+    height: 350px;
+    background-color: #F6F6F6;
+    z-index: 10;
+}
+.footer-page-decription{
+    margin: auto;
+    width: 1310px;
+    display: flex;
+    padding: 10px;
+}
+.user1{
+    width: 437px;
+}
+.user1 h4{
+    display: flex;
+    font-size: 15px;
+}
+.user1 h4 p{
+    color: #333333;
+    font-size: 14px;
+    font-weight: 300;
+}
+.cskh{
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+}
+.cskh p{
+    
+}
+.cskh h5{
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+.user1 img{
+    max-width: 300px;
+}
+.user1 ul li {
+    list-style: none;
+    font-weight: 500;
+}
+.user2{
+    width: 500px;
+}
+.user2>a{
+    font-size: 16px;
+    font-weight: 500; 
+      
+}
+.user2>a:hover
+,.user2 div a:hover{
+    color: #F45B4F;
+    text-decoration: none;
+}
+.user2>h4{
+    font-size: 14px;
+    display: flex;
+    margin-bottom: 0px;
+}
+.user2>h4 p{
+    margin-left: 10px;
+    color: #333333;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+.user2>p{
+
+}
+.user2 div{
+    margin: 20px 0;
+}
+.user2 div a{
+
+}
+.user2 ul li{
+    list-style: none;
+}
+.user2 img{
+    width: 121px;
+    margin-left: 100px;
+}
+.user3{
+    width: 327px;
+}
