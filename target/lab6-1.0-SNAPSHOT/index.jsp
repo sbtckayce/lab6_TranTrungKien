@@ -27,6 +27,7 @@
 </head>
 <body>
 
+
 <jsp:include page="layout/header.jsp"/>
 <jsp:include page="layout/container.jsp"/>
 <jsp:include page="layout/footer.jsp"/>

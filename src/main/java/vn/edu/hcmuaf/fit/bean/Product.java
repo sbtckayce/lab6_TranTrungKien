@@ -77,4 +77,12 @@ public class Product implements Serializable {
         this.quantity = quantity;
         this.img = img;
     }
+    public Product(){
+
+    }
+    @Override
+    public String toString() {
+        return id + "," + name + "," + decription + "," + oldPrice + "," + newPrice + "," + quantity + "," + img;
+
+    }
 }
